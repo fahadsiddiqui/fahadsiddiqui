@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**fahadsiddiqui/fahadsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+  - Luigi to create data pipelines ingesting huge datasets
+  - Python to write a lot of ETL code
+  - Golang to work on exciting projects, mostly open-source as a hobby
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning
+  - Golang
+  - Airflow to compare my current knowledge of Luigi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on
+  - A project to work on, that deals with PII data processing and cataloging
+
+- 🤔 I’m looking for help with
+  - Extending this and types of files it intakes: https://github.com/datumbrain/go-pii
+  
+- 📫 How to reach me:
+  - Email: fsdqui@gmail.com
