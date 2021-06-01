@@ -10,3 +10,4 @@
   
 - 📫 How to reach me:
   - Email: fsdqui@gmail.com
+  - Work email: fahad@datumbrain.com
