@@ -4,10 +4,9 @@
   - gRPC
   - Go-based serverless applications
   - data engineering projects
-  - Exciting projects-mostly open-source
 
 - 👯 I’m looking to collaborate on
-  - A project to work on, that deals with PII data processing and catalog
+  - A project to work on, that deals with PII/PHI data
   
 - 📫 How to reach me:
   - Email: fsdqui@gmail.com
