@@ -11,3 +11,6 @@
 - 📫 How to reach me:
   - Email: fsdqui@gmail.com
   - Work email: fahad@datumbrain.com
+  - LinkedIn: [linkedin.com/in/fsdqui](https://linkedin.com/in/fsdqui)
+
+I love to code on open-source stuff in my free time.
