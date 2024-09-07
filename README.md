@@ -1,19 +1,18 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently working on
-    -  web applications
+    - LLMs and AI-based apps
+    - web applications
         - htmx
         - gRPC
     - fintech
     - data engineering
-    - myself to be a better person
 
 - 👯 I’m looking to collaborate on
-  - anything in Go or Rust
+  - opensource work
+  - AI-based projects
   
 - 📫 How to reach me:
-  - Email: fsdqui+fromgithub@gmail.com
-  - Work email: fahad+fromgithub@datumbrain.com
+  - Email: [fsdqui\@gmail.com](mailto:fsdqui@gmail.com?subject=Inquiry%20From%20Github)
+  - Work email: [fahad\@datumbrain.com](mailto:fahad+fromgithub@datumbrain.com?subject=Inquiry%20From%20Github)
   - LinkedIn: [linkedin.com/in/fsdqui](https://linkedin.com/in/fsdqui)
-
-I love to code open-source in my free time.
