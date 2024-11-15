@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on
     - LLMs and AI-based apps
+    - Python
+    - WebAssembly w/ Go
     - web applications
         - htmx
         - gRPC
